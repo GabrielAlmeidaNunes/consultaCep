@@ -16,13 +16,14 @@ body{
 }
 
 .formulario{
-    width: 40%;
+    width: 50%;
     display: flex;
     flex-direction: column;
     row-gap: 0.7em;
 }
 
 .formulario h1{
+    
     text-align: center;
 }
 
